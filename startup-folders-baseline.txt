@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FA12-EC34
+
+ Directory of C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+11/04/2018  23:38    <DIR>          .
+11/04/2018  23:38    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  13,689,131,008 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is FA12-EC34
+
+ Directory of C:\Users\Sec504\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+01/04/2019  01:19    <DIR>          .
+01/04/2019  01:19    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  13,688,995,840 bytes free

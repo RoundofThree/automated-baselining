@@ -1,0 +1,11 @@
+c:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll 
+c:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\Installer\chrome.7z 
+c:\Tools\burpsuite_community_v2020.2.1.jar 
+c:\Tools\rockyou.txt 
+c:\Tools\.git\objects\82\4d49ffeb74160f68b6a7958309e746ee3eabc7 
+c:\Tools\.git\objects\dc\90b99e4014e250c3e60f2ebac1328b580822a3 
+c:\Tools\retired\504_full_Pivot.dmp 
+c:\Tools\Win10-WS-Compromise\SOFTWARE 
+c:\Tools\Win10-WS-Compromise\srudb.dat 
+c:\Users\Sec504\AppData\LocalLow\Oracle\Java\jdk1.8.0_111\st180111.cab 
+c:\Users\Sec504\AppData\LocalLow\Oracle\Java\jdk1.8.0_111_x64\st180111.cab 

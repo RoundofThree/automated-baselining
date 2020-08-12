@@ -1,0 +1,7 @@
+1- netstat -nao comparison --> output process and port when port diff
+2- wmic process list brief --> name not in whitelist, output name
+3- sc query | findstr SERVICE_NAME --> service names not in whitelist 
+4- schtasks --> use fd (file diff)
+5- net user && net localgroup && net localgroup administrators --> fd
+6- DeepBlueCLI and look for events 4776 (credential validation) and 4625 (logon failure).
+7- for /r c:\ %i in (*) do @if %~zi gtr 100000000 (echo %i && dir /q "%i" | findstr "AM PM" && echo -------------------------------)  --> >10E8 bytes file size and owner

@@ -1,0 +1,8 @@
+
+User accounts for \\SEC504STUDENT
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+Sec504                   WDAGUtilityAccount       
+The command completed successfully.
+

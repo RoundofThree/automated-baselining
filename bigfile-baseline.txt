@@ -1,0 +1,42 @@
+c:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome.dll 
+04/20/2020  08:34 PM       128,303,600 BUILTIN\Administrators chrome.dll
+-------------------------------
+c:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\chrome.dll 
+07/24/2020  08:14 PM       134,039,024 BUILTIN\Administrators chrome.dll
+-------------------------------
+c:\Program Files (x86)\Google\Chrome\Application\84.0.4147.105\Installer\chrome.7z 
+07/24/2020  08:15 PM       207,097,788 BUILTIN\Administrators chrome.7z
+-------------------------------
+c:\ProgramData\Microsoft\Windows Defender\Scans\mpcache-7780EE8D09D461077909D456EAAA4458AA35D764.bin.67 
+12/16/2016  07:25 AM       136,624,272 NT AUTHORITY\SYSTEM    mpcache-7780EE8D09D461077909D456EAAA4458AA35D764.bin.67
+-------------------------------
+c:\Tools\burpsuite_community_v2020.2.1.jar 
+04/24/2020  07:07 PM       347,353,124 SEC504STUDENT\Sec504   burpsuite_community_v2020.2.1.jar
+-------------------------------
+c:\Tools\rockyou.txt 
+08/04/2017  01:01 PM       139,921,513 SEC504STUDENT\Sec504   rockyou.txt
+-------------------------------
+c:\Tools\retired\504_full_Pivot.dmp 
+05/01/2017  03:50 PM       536,870,912 BUILTIN\Administrators 504_full_Pivot.dmp
+-------------------------------
+c:\Tools\Win10-WS-Compromise\SOFTWARE 
+12/26/2019  08:35 PM       125,304,832 SEC504STUDENT\Sec504   SOFTWARE
+-------------------------------
+c:\Tools\Win10-WS-Compromise\srudb.dat 
+12/26/2019  08:35 PM       109,903,872 SEC504STUDENT\Sec504   srudb.dat
+-------------------------------
+c:\Users\All Users\Microsoft\Windows Defender\Scans\mpcache-7780EE8D09D461077909D456EAAA4458AA35D764.bin.67 
+12/16/2016  07:25 AM       136,624,272 NT AUTHORITY\SYSTEM    mpcache-7780EE8D09D461077909D456EAAA4458AA35D764.bin.67
+-------------------------------
+c:\Users\Sec504\AppData\LocalLow\Oracle\Java\jdk1.8.0_111\st180111.cab 
+12/16/2016  08:46 AM       119,488,536 BUILTIN\Administrators st180111.cab
+-------------------------------
+c:\Users\Sec504\AppData\LocalLow\Oracle\Java\jdk1.8.0_111_x64\st180111.cab 
+12/16/2016  08:49 AM       120,296,128 BUILTIN\Administrators st180111.cab
+-------------------------------
+c:\Windows\System32\MRT.exe 
+03/29/2019  09:58 PM       127,411,920 NT AUTHORITY\SYSTEM    MRT.exe
+-------------------------------
+c:\Windows\System32\Recovery\Winre.wim 
+04/01/2019  02:59 AM       382,364,536 BUILTIN\Administrators Winre.wim
+-------------------------------

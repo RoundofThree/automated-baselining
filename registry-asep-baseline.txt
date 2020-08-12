@@ -1,0 +1,7 @@
+
+HKEY_LOCAL_MACHINE\software\microsoft\windows\currentversion\run
+    SecurityHealth    REG_EXPAND_SZ    %ProgramFiles%\Windows Defender\MSASCuiL.exe
+    VMware VM3DService Process    REG_SZ    "C:\WINDOWS\system32\vm3dservice.exe" -u
+    VMware User Process    REG_SZ    "C:\Program Files\VMware\VMware Tools\vmtoolsd.exe" -n vmusr
+
+
